@@ -21,7 +21,7 @@ Bu proje, bir **Yönetim Bilişim Sistemleri (MIS)** projesi kapsamında gelişt
 
 ## 📊 Ekran Görüntüleri
 
-| Genel Dashboard | AI Analiz Modülü |
+| Genel Dashboard |  
 |---|---|
 | ![Dashboard Görseli]<img width="2879" height="1526" alt="Ekran görüntüsü 2026-02-08 012302" src="https://github.com/user-attachments/assets/96d12a50-fcef-4615-ad37-8d40b9024e7a" />
  | ![AI Analiz Görseli]<img width="2879" height="1530" alt="Ekran görüntüsü 2026-02-08 011849" src="https://github.com/user-attachments/assets/ae4ca2cd-3ea0-4080-a985-c47135f8916a" />
