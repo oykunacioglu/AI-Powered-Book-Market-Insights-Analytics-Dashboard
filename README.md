@@ -1,6 +1,7 @@
 # 📚 AI-Powered Book Market Insights & Analytics Dashboard
 
 Bu proje, bir **Yönetim Bilişim Sistemleri (MIS)** projesi kapsamında geliştirilmiş, kitap pazarı verilerini anlık olarak analiz eden ve **Yapay Zeka (LLM)** desteğiyle stratejik iş yorumları sunan kapsamlı bir dashboard uygulamasıdır.
+"Bu projede kullanılan veriler, eğitim amaçlı web scraping denemelerine izin veren Books to Scrape platformu üzerinden on-demand olarak çekilmektedir."
 
 ## 🌟 Öne Çıkan Özellikler
 
